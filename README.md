@@ -15,8 +15,5 @@ Twitter: \[[@brav0charlie](https://twitter.com/brav0charlie)\]
 Blog: \[[blog.billclark.io](https://blog.billclark.io)\]  
 
 ### GPG Key
-  - \[[FBED8376.asc](https://brav0charlie.github.io/FBED8376.asc)\]
   - \[[E325D78BFBED8376.asc](https://brav0charlie.github.io/E325D78BFBED8376.asc)\]
-  - \[[FBED8376.txt](https://brav0charlie.github.io/FBED8376.txt)\]
-
-Both links above are the same file with two different names: the 'long' and 'short' forms.
+  - \[[More Info...](./gpg-keys.md)\]
