@@ -14,7 +14,7 @@ GitHub Profile: \[[Bill Clark (@brav0charlie)](https://github.com/brav0charlie)\
 Twitter: \[[@brav0charlie](https://twitter.com/brav0charlie)\]  
 Blog: \[[blog.billclark.io](https://blog.billclark.io)\]  
 
-## GPG Key
+### GPG Key
   - \[[FBED8376.asc](https://brav0charlie.github.io/FBED8376.asc)\]
   - \[[E325D78BFBED8376.asc](https://brav0charlie.github.io/E325D78BFBED8376.asc)\]
   - \[[FBED8376.txt](https://brav0charlie.github.io/FBED8376.txt)\]
