@@ -16,6 +16,6 @@ Blog: \[[blog.billclark.io](https://blog.billclark.io)\]
 
 ### GPG Key
   - \[[E325D78BFBED8376.asc](https://brav0charlie.github.io/E325D78BFBED8376.asc)\]
-  - \[[E325D78BFBED8376.txt](https://brav0charlie.github.io/FBED8376.txt)\]
+  - \[[E325D78BFBED8376.txt](https://brav0charlie.github.io/E325D78BFBED8376.txt)\]
 
-![https://github.com/brav0charlie/gpg-pubkey/tree/8d6985c20d1619303b026d6fd6fbf0e25c6ef832]
+Both links above are the same file: `E325D78BFBED8376.asc` will download in your browser to import into your keychain, and `E325D78BFBED8376.txt` will load in your browser to allow for copy & paste.
