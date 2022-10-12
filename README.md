@@ -1,11 +1,18 @@
+<style>
+    img {
+        border-radius: 50%;
+    }
+</style>
+
+<img src="./Bowtie.jpg" width="150px" height="150px"><br>
 # Bill Clark
 
-GitHub Profile: \[[Bill Clark (@brav0charlie)](https://github.com/brav0charlie)\]  
 LinkedIn: \[[Bill Clark](https://linkedin.com/in/clarkbill)\]  
-Certifications: \[[Credly.com](https://www.credly.com/users/billclark/badges)\] <br />
+Certifications: \[[Credly.com](https://www.credly.com/users/billclark/badges)\]  
+GitHub Profile: \[[Bill Clark (@brav0charlie)](https://github.com/brav0charlie)\]  
 
-Twitter: \[[@brav0charlie](https://twitter.com/brav0charlie)\] <br />
-Blog: \[[blog.billclark.io](https://blog.billclark.io)\]
+Twitter: \[[@brav0charlie](https://twitter.com/brav0charlie)\]  
+Blog: \[[blog.billclark.io](https://blog.billclark.io)\]  
 
 ## GPG Key
   - \[[FBED8376.asc](https://brav0charlie.github.io/FBED8376.asc)\]
