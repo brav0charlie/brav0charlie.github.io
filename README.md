@@ -11,7 +11,7 @@ LinkedIn: \[[Bill Clark](https://linkedin.com/in/clarkbill)\]
 Certifications: \[[Credly.com](https://www.credly.com/users/billclark/badges)\]  
 GitHub Profile: \[[(@brav0charlie)](https://github.com/brav0charlie)\]  
 
-Twitter: \[[@brav0charlie](https://twitter.com/brav0charlie)\]  
+Twitter: \[@brav0charlie](https://twitter.com/brav0charlie)\]  
 Blog: \[[blog.billclark.io](https://blog.billclark.io)\]  
 
 ### GPG Key
