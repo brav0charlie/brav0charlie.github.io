@@ -18,4 +18,4 @@ Blog: \[ [blog.billclark.io](https://blog.billclark.io) \]
   - \[ [E325D78BFBED8376.asc](https://brav0charlie.github.io/E325D78BFBED8376.asc) \]
   - \[ [E325D78BFBED8376.txt](https://brav0charlie.github.io/E325D78BFBED8376.txt) \]
 
-Both links above are the same file: `E325D78BFBED8376.asc` will download in your browser to import into your keychain, and `E325D78BFBED8376.txt` will load in your browser to allow for copy & paste.
+Both links above are the same file: `E325D78BFBED8376.asc` will download in your browser for import into your keychain, and `E325D78BFBED8376.txt` will load in your browser to allow for copy & paste.
